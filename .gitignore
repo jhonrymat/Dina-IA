@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.env
 
 # Entornos virtuales (reemplaza 'myenv' con el nombre de tu entorno virtual)
 venv/
